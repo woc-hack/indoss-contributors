@@ -32,16 +32,16 @@ Ratio of enterprise associated authors for top 10 enterprise domains.
 
 | Dominant Domain | Percentage | 
 |-----------------|------------|
-| microsoft.com,  | 20.9%      |
-| google.com,     | 7.3%       | 
-| udacity.com,    | 7.2%       |  
-| amazon.com,     | 6.5%       |  
-| pivotal.io,     | 4.6%       | 
-| redhat.com,     | 3.9%       | 
-| mozilla.com,    | 3.7%       | 
-| hashicorp.com,  | 2.0%       |  
-| fb.com,         | 1.2%       | 
-| enki.com,       | 0.0%       | 
+| microsoft.com  | 20.9%      |
+| google.com     | 7.3%       | 
+| udacity.com    | 7.2%       |  
+| amazon.com     | 6.5%       |  
+| pivotal.io     | 4.6%       | 
+| redhat.com     | 3.9%       | 
+| mozilla.com    | 3.7%       | 
+| hashicorp.com  | 2.0%       |  
+| fb.com         | 1.2%       | 
+| enki.com       | 0.0%       | 
 
 
 ### 4. Challenges
