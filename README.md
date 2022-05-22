@@ -20,7 +20,9 @@ Particularly we aim to investigate the following project characteristics from co
 - activity distribution
 
 ### 2. Methodology
+To obtain enterprise-driven repositories, we used a [dataset](https://dl.acm.org/doi/epdf/10.1145/3379597.3387495) by Spinellis *et al.* The dataset contains information about 17,264 GitHub repositories that are created by organizations and are maintained mainly by enterprise-affiliated contributors. 
 
+We begin the analysis by using the WoC p2P map, to deduplicate repositories. We do so because we want to study repositories that are created by a valid organization from the beginning, as forked and cloned projects would include the initial repository's commits.
 
 ### 3. Preliminary Findings
 
