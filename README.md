@@ -4,8 +4,6 @@
 * **[George Liargkovas](https://www.balab.aueb.gr/george-liargkovas.html)**, *[Athens University of Economics and Business](https://www.aueb.gr/en/international), Greece*, gliargovas@aueb.gr
 * **[Zoe Kotti](https://zkotti.github.io/)**, *[Athens University of Economics and Business](https://www.aueb.gr/en/international), Greece*, zoekotti@aueb.gr
 
-**Abstract:** 
-
 ***
 
 ### 1. Introduction
@@ -30,9 +28,20 @@ Data cleaning is required on the results of the p2a mapping, in order to determi
 Due to time restrictions that prohibit us from cleaning the entire resulting dataset, we proceed by keeping the top 10 dominant domains, based on number of authors that are affiliated with these domains.
 
 ### 3. Preliminary Findings
-The percentages of affiliated with dominant domain to total authors are presented below.
+Ratio of enterprise associated authors for top 10 enterprise domains.
 
-
+| Dominant Domain | Percentage | 
+|-----------------|------------|
+| microsoft.com,  | 20.9%      |
+| google.com,     | 7.3%       | 
+| udacity.com,    | 7.2%       |  
+| amazon.com,     | 6.5%       |  
+| pivotal.io,     | 4.6%       | 
+| redhat.com,     | 3.9%       | 
+| mozilla.com,    | 3.7%       | 
+| hashicorp.com,  | 2.0%       |  
+| fb.com,         | 1.2%       | 
+| enki.com,       | 0.0%       | 
 
 
 ### 4. Challenges
