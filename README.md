@@ -16,6 +16,6 @@ This work is based on the following datasets.
 The project team consists of the following members
 from the [Athens University of Economics and Business](https://www.aueb.gr/en/international), Greece.
 
-- [Angeliki Papadopoulou](https://www.balab.aueb.gr/angeliki-papadopolou.html)
-- [George Liargkovas](https://www.balab.aueb.gr/george-liargkovas.html)
-- [Zoe Kotti](https://zkotti.github.io/)
+- [Angeliki Papadopoulou](https://www.balab.aueb.gr/angeliki-papadopolou.html), undergraduate student
+- [George Liargkovas](https://www.balab.aueb.gr/george-liargkovas.html), undergraduate student
+- [Zoe Kotti](https://zkotti.github.io/), PhD student
